@@ -2,7 +2,7 @@ import React from "react";
 
 const Imgdescription = () => {
   return (
-    <div className="w-full">
+    <div className="max-w-[1640px] mx-auto">
       {/* Tiltle */}
       <div className="text-[#333333] text-center my-16">
         <h2 className="text-[36px]  font-light ">

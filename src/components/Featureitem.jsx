@@ -2,7 +2,7 @@ import React from "react";
 
 const Featureitem = () => {
   return (
-    <div className="w-full mx-auto ">
+    <div className="max-w-[1640px] mx-auto ">
       {/* logo */}
       <div className="flex flex-col justify-center items-center">
         <img
@@ -16,7 +16,7 @@ const Featureitem = () => {
 
       {/* Features Items */}
 
-      <div className="w-full">
+      <div className="w-fulgl">
         {/* First Item */}
         <div className="grid grid-cols-1  md:grid-cols-2 py-10 md:mx-40 md:gap-4">
           <div className="flex flex-col items-center text-center text-[#333333] my-10  md:max-w-[485px] mx-auto ">
