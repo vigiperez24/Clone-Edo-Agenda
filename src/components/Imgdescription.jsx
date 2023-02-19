@@ -39,7 +39,7 @@ const Imgdescription = () => {
         {/* items2 */}
         <div className=" flex flex-col md:flex-row-reverse ">
           <img
-            className=" max-w-[550px]"
+            className=" max-w-[675px]"
             src="https://agenda.edo.io/welcome/static/img/mobile-image.jpg"
           />
           <div className="flex flex-col text-center items-center p-12 md:text-left  md:items-end justify-center">

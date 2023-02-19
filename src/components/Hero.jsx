@@ -14,7 +14,7 @@ const Hero = () => {
           Edo Agenda is your personal workspace that helps you organize your day
           and free your creative side.
         </p>
-        <div className="w-full h-full   absolute left-0 top-[50%] text-center text-white  ">
+        <div className="w-full h-full   absolute left-0 top-[54%] text-center text-white  ">
           <p className="text-[9px] mb-6 tracking-wider">
             Scroll down or use arrow keys
           </p>
